@@ -410,7 +410,7 @@ FileUtils.copyFile(source, dest);
 
         /* Create and display the form */
     
-
+            System.out.println("dvdsvdsv");
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
                 new MyFormApp(folderPath).setVisible(true);
